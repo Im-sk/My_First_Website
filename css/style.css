@@ -1,0 +1,185 @@
+body{
+	    background-color: #3d6373;
+    margin: auto
+/*	background-color: darkgray;*/
+/*	margin: auto;*/
+	
+}
+
+.header{
+	border-radius: 10px;
+	background-color:cornflowerblue ;
+	background-position: center;
+	text-align: center;
+/*	background-color: azure;*/
+/*	color: brown;*/
+	
+}
+h1{
+	color: black;
+}
+.menu{
+	background-color: lightslategray;
+	padding: 6px 0 6px 10px;
+	border-radius: 10px;
+	
+}
+.container{
+	width: 780px;
+	margin: 0 auto;
+	background: lightblue;
+	box-shadow: 0px 2px 30px 20px lightblue;
+}
+
+.header{
+	padding: 40px 0 20px 40px;
+/*	border: 2px solid black;	*/
+}
+
+
+.menu a {
+	color: light aliceblue;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: "Arial Narrow", "Myriad Pro"";
+}
+
+.menu a:hover{
+	
+	color: orange;
+}
+
+aside {
+	 float: left;
+	 width: 120px;
+	 padding: 30px 0 0 40px;
+	
+}
+
+h1 {
+	margin: 0px;
+	color: chocolate;
+	font-size: 24px;
+	font-family: "Arial Narrow", "Myriad Pro"";
+	font-weight: normal;
+}
+
+.main {
+/*	text-align: center;*/
+    margin: 0 0 0 180px;
+	padding: 35px 40px 30px 0;
+	color: #444444;
+	font-family: "Georgia";
+	line-height: 18px;
+	text-emphasis: justify;
+}
+
+.main a:hover {
+	color: #444444;
+	
+}
+
+footer {
+	padding 6px 40px 6px 40px;
+	font-family: "Lucida Sans Unicode";
+	background: #6d6d6d6d;
+	color: #444444;
+	font-size: 11px;
+	text-decoration: overline;
+	border-radius: 10px;
+}
+
+footer a: hover {
+	color: #444444;
+	text-decoration: none;
+	
+}
+
+.title {
+/*	text-decoration: none;*/
+	font-size:25px;
+	color:darkred;
+}
+
+.seperator {
+	color: white;
+	font-size: 11px;
+}
+
+#home-img img{
+	margin-top: 20px;
+/*	width: 50%;*/
+	box-shadow: 0px 2px 3px 2px ;
+}
+
+/* ****** About pages */
+
+#about-page #home-img img{
+	width: 40%;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.profile-info {
+	float: right;
+	width: 30%;
+	margin: 5px;
+/*	margin-left: 10px;*/
+	color: darkblue;
+	box-shadow: 0px 2px 30px 20px lightyellow; 
+	margin-top: 20px;
+}
+
+#about-page .description {
+	clear: both;
+	margin-left: 160px;
+}
+/******************** COntact Page   */
+#form {
+	width: 500px;
+/*	border: 2px solid orange;*/
+	padding: 10px 10px 10px 10px;
+/*	text-align: center;*/
+	margin: 0 auto;
+	box-shadow: 0px 2px 30px 20px;
+	    border-radius: 15px;
+}
+
+.contact-head{
+	width: 100px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+
+#form input {
+	width: 100%;
+	border-radius: 15px;
+	height: 20px;
+    background: #6495ed;
+	
+}
+
+#message {
+	width: 100%;
+	border-radius: 15px;
+	height: 100px;
+	 background: #6495ed;
+}
+
+
+#submit {
+	
+	height: 30px;
+    background: rgb(59,118,135 );
+}
+
+
+#contact .container {
+	
+}
+
+
+
+
+
